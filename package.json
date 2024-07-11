@@ -29,7 +29,7 @@
   "peerDependencies": {
     "webpack": "5.92.1",
     "webpack-dev-middleware": "7.2.1",
-    "webpack-hot-client": "4.2.0"
+    "webpack-hot-client": "github:cbilotta/webpack-hot-client#master"
   },
   "dependencies": {
     "app-root-path": "^3.0.0",
