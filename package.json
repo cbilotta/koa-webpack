@@ -27,15 +27,15 @@
     "README.md"
   ],
   "peerDependencies": {
-    "webpack": "5.92.1",
-    "webpack-dev-middleware": "7.2.1",
-    "webpack-hot-client": "github:cbilotta/webpack-hot-client#master"
+    "webpack": "5.92.1"
   },
   "dependencies": {
     "app-root-path": "^3.0.0",
     "chalk": "^4.1.0",
     "joi": "^17.2.0",
-    "merge-options": "^2.0.0"
+    "merge-options": "^2.0.0",
+    "webpack-dev-middleware": "7.2.1",
+    "webpack-hot-client": "github:cbilotta/webpack-hot-client#master"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
