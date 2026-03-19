@@ -3,10 +3,10 @@
   "version": "6.0.0",
   "description": "Development and Hot Reload Middleware for Koa2",
   "license": "MPL-2.0",
-  "repository": "shellscape/koa-webpack",
+  "repository": "cbilotta/koa-webpack",
   "author": "Andrew Powell <andrew@shellscape.org>",
-  "homepage": "https://github.com/shellscape/koa-webpack",
-  "bugs": "https://github.com/shellscape/koa-webpack/issues",
+  "homepage": "https://github.com/cbilotta/koa-webpack",
+  "bugs": "https://github.com/cbilotta/koa-webpack/issues",
   "main": "lib/index.js",
   "engines": {
     "node": ">= 10.0.0"
